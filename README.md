@@ -5,3 +5,6 @@ test repo
 
 - Create a remote repo on GitHub
 - Practice git workflow
+
+## Creator
+blah blah blah. I'm learning how to do git in Rstudio.
