@@ -10,3 +10,4 @@ test repo
 blah blah blah. I'm learning how to do git in Rstudio.
 
 Pascale made an edit suggestion. 
+Bailey made an edit suggestion.
