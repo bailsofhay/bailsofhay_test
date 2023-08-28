@@ -8,3 +8,5 @@ test repo
 
 ## Creator
 blah blah blah. I'm learning how to do git in Rstudio.
+
+Pascale made an edit suggestion. 
